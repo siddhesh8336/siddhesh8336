@@ -1,0 +1,18 @@
+print("Hello")
+Hello
+a="Hello RCPIT"
+print(a)
+Hello RCPIT
+print(1+2)
+3
+a=1
+b=2
+print(a+b)
+3
+
+
+OUTPUT:
+  File "main.py", line 5
+    Hello RCPIT
+          ^
+SyntaxError: invalid syntax

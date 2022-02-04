@@ -1,0 +1,16 @@
+INPUT:-
+
+string1 = input ("enter the first string: ");
+string2 = input ("enter the second string: ");
+print ("first string is: ", string1);
+print ("second string is; ", string2);
+print ("concatenation of two string: ", string1 + string2);
+print ("substring of given string: ", string1[1:]);
+
+OUTPUT:-
+string1 = input ("enter the first string: ");
+string2 = input ("enter the second string: ");
+print ("first string is: ", string1);
+print ("second string is; ", string2);
+print ("concatenation of two string: ", string1 + string2);
+print ("substring of given string: ", string1[1:]);

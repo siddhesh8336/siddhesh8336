@@ -1,0 +1,20 @@
+Program
+s1=input("Enter first String : ");
+s2=input("Enter second String : ");
+print("First string is : ",s1);
+print("Second string is : ",s2);
+print("concatenations of two strings :",s1*2);
+print("Hello"+" "+"RCPIT")
+S3=s1[0]*2
+print("Substring of given string :",S3);
+s4=s1[-4:-1]
+print(s4)
+Output
+Enter first String : Hello
+Enter second String : RCPIT
+First string is : Hello
+Second string is : RCPIT
+concatenations of two strings : HelloHello
+Hello RCPIT
+Substring of given string : HH
+ell

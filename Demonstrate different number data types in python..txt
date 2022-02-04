@@ -1,0 +1,46 @@
+INPUT:-
+x = 29    
+print(x)
+print(type(x))
+x = 20.5 
+print(x)
+print(type(x))
+x = 1j        
+print(x)
+print(type(x))
+x = "python" 
+print(x)
+print(type(x))
+x = ["Shirpur", "RCPIT", "Electrical"]      
+print(x)
+print(type(x))
+x = ("Python", "from", "Electrical")       
+print(type(x))
+x = {"name" : "suku", "age" : 21}  
+print(x)
+print(type(x))
+x = True 
+print(x)
+print(type(x))
+x = {"dl", "python", "ml"}  
+print(x)
+print(type(x))
+
+OUTPUT:-
+29
+<class 'int'>
+20.5
+<class 'float'>
+1j
+<class 'complex'>
+python
+<class 'str'>
+['Shirpur', 'RCPIT', 'Electrical']
+<class 'list'>
+<class 'tuple'>
+{'name': 'suku', 'age': 21}
+<class 'dict'>
+True
+<class 'bool'>
+{'ml', 'python', 'dl'}
+<class 'set'>
